@@ -9,10 +9,7 @@ our models. I will be constructing a custom designed CNN to
 compare to the Alexnet and GoogLeNet architectures. I will be
 training all models on the CIFAR-10 dataset.
 
-## Results
-
-
-## Conclusion
+## Results & Conclusions
 In conclusion, the modifications made to the
 architecture of a network play a significant role in
 how well the network will perform. The type of
@@ -32,4 +29,7 @@ performance, but nothing noteworthy in this
 experiment. Overall, testing different settings and
 modifications in creating an architecture is
 immensely important and should not be overlooked.
+
+![Accuracies](/Accuracies.png)
+This table shows the accuracies achieved by 
 
