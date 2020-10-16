@@ -11,6 +11,7 @@ training all models on the CIFAR-10 dataset.
 
 ## Results
 
+
 ## Conclusion
 In conclusion, the modifications made to the
 architecture of a network play a significant role in
