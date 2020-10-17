@@ -9,7 +9,13 @@ our models. I will be constructing a custom designed CNN to
 compare to the Alexnet and GoogLeNet architectures. I will be
 training all models on the CIFAR-10 dataset.
 
-## Results & Conclusions
+## Results
+![Accuracies](/Accuracies.png)
+
+This table shows the accuracies achieved by the different architectures. AlexNet performed the best with an accuracy of 85% over 10,000 images. 
+Further breakdown of class by class accuracies can be found within the report. 
+
+## Conclusion
 In conclusion, the modifications made to the
 architecture of a network play a significant role in
 how well the network will perform. The type of
@@ -30,6 +36,5 @@ experiment. Overall, testing different settings and
 modifications in creating an architecture is
 immensely important and should not be overlooked.
 
-![Accuracies](/Accuracies.png)
-This table shows the accuracies achieved by 
+
 
