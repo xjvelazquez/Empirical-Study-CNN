@@ -6,8 +6,7 @@ data. I will be studying the performance of different
 architectures of convolutional neural networks (CNNs) to
 gauge what tweaks and tuning brings about the best result for
 our models. I will be constructing a custom designed CNN to
-compare to the Alexnet and GoogLeNet architectures. I will be
-training all models on the CIFAR-10 dataset.
+compare to the Alexnet and GoogLeNet architectures. All models will be trained on the CIFAR-10 dataset.
 
 ## Results
 ![Accuracies](/Accuracies.png)
